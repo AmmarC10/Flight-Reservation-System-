@@ -3,7 +3,7 @@ public class Aircraft implements Comparable<Aircraft>
 {
   int numEconomySeats;
   int numFirstClassSeats;
-  }
+}
   String model;
 
   private String[][] seatLayout;
